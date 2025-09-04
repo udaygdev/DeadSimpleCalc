@@ -1,0 +1,5 @@
+compile using:
+gcc main.c - o main
+
+Run using:
+./main
