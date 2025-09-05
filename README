@@ -1,10 +1,10 @@
-This is a simple calculator program in C, mostly just for my own practice with GitHub and getting more comfortable with C and its quirks. 
+This is a simple calculator program written in C, primarily for my own practice with GitHub and becoming more comfortable with C and its quirks. 
 It takes two integers and an operator (+, -, *, /, %) and performs the calculation. 
-After each operation, it asks if I want to continue. It doesn’t have safeguards (yet), so entering the wrong type of input or causing overflow might crash it. 
+After each operation, it asks if you want to continue. It doesn’t have safeguards (yet), so entering the wrong type of input or causing overflow might crash it. 
 The goal here is mainly to experiment and learn, and possibly polish it in the future.
 
 Requirements:
-GNU Compiler (GCC) is required to compile this program.
+GNU Compiler (GCC) is required to compile this program. The obvious standard libraries like stdlib and stdio should be on your system for it to work.
 
 Compile using:
 gcc main.c - o main
