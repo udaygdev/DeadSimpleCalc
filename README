@@ -4,7 +4,7 @@ After each operation, it asks if you want to continue. It doesn’t have safegua
 The goal here is mainly to experiment and learn, and possibly polish it in the future.
 
 Requirements:
-GNU Compiler (GCC) is required to compile this program. The obvious standard libraries like stdlib and stdio should be on your system for it to work.
+GNU Compiler (GCC) is required to compile this program. The obvious standard libraries like stdlib, stdio, and string should be on your system for it to work.
 
 Compile using:
 gcc main.c - o main
